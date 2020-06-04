@@ -7,3 +7,5 @@ ACP2019 - A7<br>
 Mr. Chattipoom Sirimul 623040132-7<br>
 Ms. Chunya Paomuangchol 623040235-7<br>
 Mr. Kant Saibeautong 623040540-2<br>
+<br>
+Play on browser: https://littleblue512.github.io/LettersHeroWebGL/
